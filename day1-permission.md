@@ -12,6 +12,8 @@
 - x = Execute (1)
 
 ### Examples
-     - chmod 777 file.txt  ( -rwxrwxrwx )  
-     - chmod 755 file.txt  ( -rwxr-xr-x )
-     - chmod 644 file.txt  ( -rw-r--r-- )
+     - 777 = rwxrwxrwx
+     - 755 = rwxr-xr-x
+     - 644 = rw-r--r--
+     - 444 = r--r--r--
+     - 500 = r-x------
