@@ -6,5 +6,7 @@
 - chmod 644
 
 r = Read (4)
+
 w = Write (2)
+
 x = Execute (1)
