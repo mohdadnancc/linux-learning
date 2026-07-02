@@ -9,7 +9,7 @@
 - w = Write (2)
 - x = Execute (1)
 
-#Example:-
+# Example:-
      -chmod 777 file.txt  ( -rwxrwxrwx )  
      -chmod 755 file.txt  ( -rwxr-xr-x )
      -chmod 644 file.txt  ( -rw-r--r-- )
